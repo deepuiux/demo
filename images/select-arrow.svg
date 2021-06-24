@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
+  <g id="select-arrow" transform="translate(-503 -2736)">
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(503 2736)" fill="none" stroke="#ebebee" stroke-width="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <path id="chevron-down" d="M112,184l5.58,5.58,5.58-5.58" transform="translate(408.5 2572.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
